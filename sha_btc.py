@@ -118,7 +118,7 @@ if "__main__" in __name__:
 
     driver = webdriver.Chrome()
 
-    print("Started WebDriver in headless mode")
+    # print("Started WebDriver in headless mode")
 
     driver.get('https://www.bitaddress.org/')
 

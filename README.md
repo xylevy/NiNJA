@@ -14,7 +14,7 @@ An attacker can also generate a lot of brainwallets and their respective private
 ## Scripts
 
 `sha_btc.py` - Generates btc addresses using a simple phrase list and saves them \
-`check_addresses.py` - Checks if saved addresses are used or if the have any balance (highly unlikely)
+`check_addresses.py` - Checks if saved addresses are used or if they have any balance (highly unlikely)
 
 ***Requires:***
 >
